@@ -1,0 +1,11 @@
+Scenario,Strategy,Mean payoff,SD,SE,Final cumulative
+No noise,ALL-C,2.2500,0.0000,0.0000,450.000
+No noise,ALL-D,2.1188,0.0212,0.0039,423.767
+No noise,TFT,2.4988,0.0000,0.0000,499.750
+No noise,GRIM,2.4988,0.0000,0.0000,499.750
+No noise,GTFT,2.4728,0.0053,0.0010,494.558
+5% action noise,ALL-C,1.5722,0.0570,0.0104,314.433
+5% action noise,ALL-D,2.2273,0.0308,0.0056,445.450
+5% action noise,TFT,1.9831,0.0597,0.0109,396.617
+5% action noise,GRIM,2.2128,0.0528,0.0096,442.558
+5% action noise,GTFT,1.9248,0.0523,0.0095,384.958
